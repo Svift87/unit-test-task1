@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+
 import numToColor from './add';
 
 test('not an object input throws', () => {
